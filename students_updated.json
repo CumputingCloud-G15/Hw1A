@@ -1,0 +1,88 @@
+[
+    {
+        "first_name": "Avishai",
+        "last_name": "Hershkovitz",
+        "email": "Avishai.hershkovitz@e.braude.ac.il",
+        "courses": [
+            "Data mining",
+            "Physics",
+            "Compilation",
+            "Intro to Cloud",
+            "Web technology"
+        ],
+        "link": "https://theuselessweb.com/"
+    },
+    {
+        "first_name": "Avihay",
+        "last_name": "Hadad",
+        "email": "avihay.hadad@e.braude.ac.il",
+        "courses": [
+            "Data mining",
+            "Physics",
+            "Compilation",
+            "Intro to Cloud",
+            "Web technology",
+            "Intro to AI",
+            "Ping-Pong"
+        ],
+        "link": "https://theuselessweb.com/"
+    },
+    {
+        "first_name": "Elad",
+        "last_name": "Fisher",
+        "email": "Elad.Fisher@e.braude.ac.il",
+        "courses": [
+            "Data mining",
+            "Physics",
+            "Automation",
+            "Intro to Cloud",
+            "Web technology"
+        ],
+        "link": "https://theuselessweb.com/"
+    },
+    {
+        "first_name": "Liel",
+        "last_name": "Pasman",
+        "email": "Liel.Pasman@e.braude.ac.il",
+        "courses": [
+            "Data mining",
+            "Physics",
+            "Compilation",
+            "Intro to Cloud",
+            "Web technology",
+            "Intro to AI"
+        ],
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+        "first_name": "Liza",
+        "last_name": "Shvachka",
+        "email": "Liza.shvachka@e.braude.ac.il",
+        "courses": [
+            "Data mining",
+            "Physics",
+            "Compilation",
+            "Intro to Cloud",
+            "Web technology",
+            "Intro to AI",
+            "Differential equations"
+        ],
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+        "first_name": "Yuval",
+        "last_name": "Zohar",
+        "email": "Yuval.Zohar@e.braude.ac.il",
+        "courses": [
+            "Data mining",
+            "Physics",
+            "Compilation",
+            "Intro to Cloud",
+            "Web technology",
+            "Intro to AI",
+            "Applied english"
+        ],
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+
+]
